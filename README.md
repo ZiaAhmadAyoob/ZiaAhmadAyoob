@@ -1,73 +1,126 @@
-# I'm Zia Ahmad Ayoob 
+<div align="center">
 
-### Data Scientist · ML Engineer · AI Enthusiast
----
-## 🧑‍💼 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0e4d92&height=200&section=header&text=Zia%20Ahmad%20Ayoob&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Agentic%20AI%20Engineer&descAlignY=58&descSize=18&descColor=7eb3ff" />
 
-I am a **BS Artificial Intelligence** student with a strong interest in building data-driven and intelligent systems. My focus is on applying machine learning and data science techniques to solve real-world problems through clean, efficient, and scalable code.
-I enjoy working with data, understanding patterns, and transforming raw information into meaningful insights using modern AI techniques. I am continuously improving my technical skills through hands-on projects, experimentation, and self-driven learning.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziaahmadayoob&label=Profile%20views&color=0e75b6&style=flat" alt="ziaahmadayoobm" /> </p>
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=4D9FEC&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Agentic+AI+%7C+LLM+Pipelines+%7C+AI+Agents+%F0%9F%A7%A0;Computer+Vision+%7C+Deep+Learning+%7C+MLOps;Transforming+Data+into+Decisions+%F0%9F%93%8A;BS+Artificial+Intelligence+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-## 🔭 I'm Currently Working On
+<br/>
 
-- Building and fine-tuning **Computer Vision** models for real-world image classification and object detection tasks
-- Developing end-to-end **ML pipelines** from data preprocessing to model deployment
-- Exploring applied **deep learning** projects using TensorFlow/Keras
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zia-ahmad-ayoob/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zia63000@gmail.com)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ZiaAhmadAyoob)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ziaahmadayoob)
+[![Profile Views](https://komarev.com/ghpvc/?username=ziaahmadayoob&style=for-the-badge&color=0e4d92&label=PROFILE+VIEWS)](https://github.com/ZiaAhmadAyoob)
 
----
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Zia.Ahmad.com15) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ziaahmadayoob?igsh=MWxmNWFpcXJpdmkzNg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/zia-ahmad-ayoob/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ZiaAhmadAyoob) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zia63000@gmail.com) 
+</div>
 
 ---
 
-## 🤝 I'm Looking to Collaborate On
+## 👨‍💻 About Me
 
-- Open-source **Machine Learning** and **Computer Vision** projects
-- **Data Science** initiatives that involve real-world datasets and impactful outcomes
-- Research-oriented projects at the intersection of **AI and practical applications**
+> *A curious mind at the intersection of data, intelligence, and engineering.*
+
+I am a **BS Artificial Intelligence** student passionate about building data-driven and intelligent systems that solve real-world problems. I focus on applying machine learning and deep learning techniques through clean, efficient, and scalable code.
+
+My approach combines analytical thinking with hands-on experimentation — whether that means fine-tuning a vision model, building autonomous AI agents, designing an ML pipeline, or digging deep into a new research paper. I believe every dataset has a story, and every agent has a mission.
+
+- 🔭 Currently focused on **Agentic AI**, **Computer Vision**, and end-to-end **ML pipeline development**
+- 🤖 Building **autonomous AI agents** and **multi-agent systems** powered by LLMs
+- 🌱 Actively learning **LLM orchestration**, **Vision Transformers**, **MLOps**, and **production-ready AI practices**
+- 🤝 Open to collaborating on **Agentic AI**, **open-source ML**, and **Computer Vision** projects
+- 💡 Seeking guidance on **model optimization**, **hyperparameter tuning**, and **MLOps scaling**
+- ⚡ Driven by curiosity — every problem is a new opportunity to learn
 
 ---
 
-## 🆘 I'm Looking for Help With
+## 🛠️ Tech Stack
 
-- Advanced techniques in **model optimization** and hyperparameter tuning
-- Scaling ML workflows and best practices in **MLOps**
-- Staying up to date with cutting-edge **Computer Vision** research and papers
+### Languages & Core Libraries
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Machine Learning & Deep Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Agentic AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Cloud, DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Design & Other
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ---
 
-## 📚 I'm Currently Learning
+## 📊 GitHub Statistics
 
-- Deep learning architectures for **Computer Vision** (CNNs, Vision Transformers, YOLO, etc.)
-- Efficient **data engineering** and pipeline design with SQL and Python
-- Best practices for writing **production-ready**, maintainable ML code
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZiaAhmadAyoob&theme=github_dark" width="48%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZiaAhmadAyoob&theme=github_dark" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ziaahmadayoob&theme=dark&hide_border=true&background=0D1117&ring=4D9FEC&fire=4D9FEC&currStreakLabel=4D9FEC" width="60%" />
+
+</div>
+
+---
+
+## 🚀 Currently Building
+
+| Area | Focus |
+|------|-------|
+| 🤖 **Agentic AI** | Designing autonomous agents and multi-agent systems using LangChain & LangGraph |
+| 🖼️ **Computer Vision** | Fine-tuning CNN & YOLO architectures for classification & object detection |
+| ⚙️ **ML Pipelines** | End-to-end workflows from raw data ingestion to model deployment |
+| 🧠 **Deep Learning** | Exploring Vision Transformers and efficient model architectures |
+| 📐 **MLOps** | Reproducible, production-ready ML systems and best practices |
 
 ---
 
 ## 💬 Ask Me About
 
+- **Agentic AI** — designing autonomous agents, tool use, memory, and multi-agent orchestration
 - Getting started with **Machine Learning** and **Python for Data Science**
-- Working with **Scikit-learn** and **TensorFlow/Keras** for model building
-- **Computer Vision** fundamentals — image preprocessing, feature extraction, and model evaluation
-- Structuring **ML projects** for clarity, reproducibility, and scalability
----
-
-## ⚡ Fun Fact
-
-I am driven by curiosity — whether it is exploring a new dataset, reading about the latest AI breakthrough, or experimenting with a model architecture I have never tried before. For me, every problem is an opportunity to learn something new.
-
-# 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZiaAhmadAyoob&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZiaAhmadAyoob&theme=github)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziaahmadayoob&" alt="ziaahmadayoob" /></p>
+- Building models with **Scikit-learn**, **TensorFlow**, and **Keras**
+- **Computer Vision** — image preprocessing, feature extraction, model evaluation
+- Structuring **ML & Agentic AI projects** for clarity, reproducibility, and scalability
 
 ---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4d92,50:1a1f35,100:0d1117&height=120&section=footer&fontSize=18&fontColor=ffffff" />
 
 *"Transforming data into decisions, one model at a time."*
+
+</div>
